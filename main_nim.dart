@@ -1,6 +1,6 @@
 void main(List<String> args) {
 
-  //Soal 1: Buat project flutter, upload di git, url git dimasukkan disini: (URL Github Kalian)
+  //Soal 1: Buat project flutter, upload di git, url git dimasukkan disini: https://github.com/Altashfirs/PrakMobile.git.
 
   //Soal 2
   //2.1 Buat object dari class Asset dengan nama MainChar, dengan value constructor (nama kalian, 'Human', nim kalian)
