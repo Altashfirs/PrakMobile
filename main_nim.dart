@@ -1,3 +1,5 @@
+import 'asset.dart';
+
 void main(List<String> args) {
 
   //Soal 1: Buat project flutter, upload di git, url git dimasukkan disini: https://github.com/Altashfirs/PrakMobile.git.
